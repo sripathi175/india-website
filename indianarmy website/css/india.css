@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0%;
+}  
+.img{
+    width: 15%;
+    height: 15%;
+}
+.heading{
+    color:rgb(128, 0, 0);
+    font-size: 50px;
+    justify-content: center;
+}
+body{
+    background-image: url(/img/india1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.heading h1{
+    text-align: center;
+}
+.air{
+
+        width: 300px;
+        height: 100px;
+        border: 6px  solid ;
+        border-color: rgb(85, 255, 0);
+        background-color:red;
+        padding-left: 20px;
+        text-align: center;
+    }
+    .navy{
+        width: 300px;
+        height: 100px;
+        border: 6px solid ;
+        border-color: rgb(12, 176, 226);
+        background-color:white;
+        border-style: solid;
+        text-align: center;
+        
+    }
+    .land{
+        width: 300px;
+        height: 100px;
+        border: 6px solid ;
+        border-color: rgb(15, 12, 228);
+        background-color: green;
+        border-style: solid;
+        text-align: center;
+        
+    }
+    .out{
+        display: flex;
+        gap: 130px;
+    }
+
+
+

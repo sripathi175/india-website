@@ -1,0 +1,15 @@
+.box{
+    border: 10px;
+    margin: auto;
+    outline-color: rgb(255, 0, 162);
+    outline-style: solid;
+  outline-width: 5px;
+}
+.box li h1{
+    text-align: center;
+
+}
+img{
+    width: 10%;
+    height: 10%;
+}
